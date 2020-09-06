@@ -8,3 +8,5 @@ echo "6 hello "*" world" #6 hello * world
 echo '7 hello' world # 7 hello world
 echo "8 hello \"world"\" #8 hello "world"
 echo "9 hello "world"" #9 hello world
+h=hello
+echo "10 ${h} world" #10 hello world
